@@ -3,9 +3,9 @@ subject: 'cat:quant-ph.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        qubit: 3
+#         resnet: 3
+#         anomaly detection: 1
 
 # 通知の閾値
 score_threshold: 0
